@@ -41,7 +41,7 @@
             font-family: 'AnmolLipi', sans-serif;
         }
         p{
-            font-weight: bolder;
+            font-weight:bold;
             font-size: 18px;
             color:#fdfefe  ;
             word-spacing: 5px;
@@ -67,7 +67,23 @@
   background-attachment: fixed;
   
 }
-u{ font-size: 20px;
+u{
+    font-weight:bold;
+            font-size: 18px;
+            color:aliceblue  ;
+            
+            width: 100%;
+   
+   border: 5px solid #f1c40f;
+   border-style:double;
+   
+   border-radius: 25px;
+   text-decoration: none;
+   text-align: justify;
+   border:none;
+   white-space: nowrap;
+}
+u1{ font-size: 18px;
             color:aliceblue;
             text-decoration: none;
             text-align:left;
@@ -75,35 +91,79 @@ u{ font-size: 20px;
         
         }
         b3{
-            font-size: 20px;
+            font-size: 15px;
             color: #fdfefe;
              font-weight: bolder;
         }
         h3{
             color:gold;
         }
-        p1{
-            font-size: 20px;
-            color: #fdfefe;
-             font-weight: bolder;
-        }
-        b2{
-            color:gold;
-            font-size: 20px;
-            text-decoration: none;
-        }
-        c1{
-            font-size: 20px;
+ 
+   p1{
+    font-weight:bold;
+            font-size: 18px;
+            color: #fdfefe ;
+            word-spacing: 5px;
+            width: 100%;
+   padding: 20px ;
+   border: 5px solid #f1c40f;
+   border-style:double;
+   
+   border-radius: 25px;
+   text-decoration: none;
+   text-align: justify;
+   border:none;
+   }
+   b2{
+    font-weight:bold;
+            font-size: 18px;
+            color:gold ;
+            word-spacing: 5px;
+            width: 100%;
+   padding: 20px ;
+   border: 5px solid #f1c40f;
+   border-style:double;
+   
+   border-radius: 25px;
+   text-decoration: none;
+   text-align: justify;
+   border:none;
+   }
+             
+             
+
+             
+        
+    c1{
+        
+            font-size: 18px;
+            color:#fdfefe  ;
+            
+            width: 100%;
+   padding: px ;
+   border: 5px solid #f1c40f;
+   border-style:double;
+   
+   border-radius: 25px;
+   text-decoration: none;
+   text-align: justify;
+   border:none;
+    }
+
+        c11{
+            font-size: 18px;
             
             text-decoration: none;
             color:#fdfefe;
+            white-space: nowrap;
+            
 
         }
         t1
         {
             color:#fdfefe;
             text-align:justify;
-            font-size: 20px;
+            font-size: 17px;
             font-weight: bolder;
         }
     </style>
